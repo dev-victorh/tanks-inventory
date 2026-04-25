@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "tanks-inventory",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "98ab281a-3e09-433d-ae6e-1cc3c218b09c",
+			"database_name": "tanks-inventory"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
